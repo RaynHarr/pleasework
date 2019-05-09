@@ -1,0 +1,41 @@
+{
+    "cells": [
+        {
+            "title": "Intro to React",
+            "image": "https://cl.ly/bcc703040309"
+        },
+        {
+            "title": "Basic Styling in CSS",
+            "image": "https://cl.ly/bcc703040309"
+        },
+        {
+            "title": "Adaptive Layout with CSS grid",
+            "image": "https://cl.ly/bcc703040309"
+        },
+        {
+            "title": "Interactions and Animations",
+            "image": "https://cl.ly/bcc703040309"
+        },
+        {
+            "title": "SVG  Animation",
+            "image": "https://cl.ly/bcc703040309"
+        },
+        {
+            "title": "Components and Props",
+            "image": "https://cl.ly/bcc703040309"
+        },
+        {
+            "title": "States and Events",
+            "image": "https://cl.ly/bcc703040309"
+        },
+        {
+            "title": "Styled Components",
+            "image": "https://cl.ly/bcc703040309"
+        },
+        {
+            "title": "Static Data with JSON",
+            "image": "https://cl.ly/bcc703040309"
+        }
+
+    ]
+}
