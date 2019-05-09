@@ -61,7 +61,7 @@ const Copyright = styled.div`
 const Footer = ({data, children}) => (
 
         <FooterGroup>
-            <Text>Hey HEllo How are you??</Text>
+            <Text>As Above, So Below</Text>
             <Button>BAM</Button>
             <LinkGroup>{data.allContentfulLink.edges.map(edge => (
         <a href={edge.node.url}>{edge.node.title}</a>
