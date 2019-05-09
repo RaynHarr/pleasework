@@ -34,7 +34,7 @@ class Header extends React.Component {
           <Link to="/">
             <img src={require('../images/please-hero.png')} width="30" />
           </Link>
-          <Link to="/courses">Bananas</Link>
+          <Link to="/courses">Sedans</Link>
           <Link to="/downloads">Downloads</Link>
           <Link to="/workshops">Workshops</Link>
           <Link to="/buy">
