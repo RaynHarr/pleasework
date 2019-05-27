@@ -34,7 +34,7 @@ const IndexPage = () => (
       <div className="HeroGroup">
         <h1 />
         <p>GARAGEBAND PUNK</p>
-        <a href="https://www.instagram.com/please_band/">Watch the video NOW</a>
+        <a href="https://youtu.be/KDkE0HG7zTw">Watch the video NOW</a>
         <div className="Logos">
           <img src={require('../images/please-hero.png')} width="100" />
           <img src={require('../images/flint-hero.jpg')} width="100" />
