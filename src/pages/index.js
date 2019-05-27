@@ -69,8 +69,8 @@ const IndexPage = () => (
       </div>
     </div>
     <Section
-      image={require('../images/wallpaper2.jpg')}
-      logo={require('../images/logo-react.png')}
+      image={require('../images/superman.jpeg')}
+      logo={require('../images/please-hero.png')}
       title="Basement Punks"
       text={
         "Looking for the owner of a pink sedan? A pink sedan!....It's getting towed."
